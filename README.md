@@ -5,7 +5,7 @@ How to Use:
 
 1. clone repo
 
-2. navigate to director that contains the app.js file
+2. navigate to directory that contains the app.js file
 
 3. enter: 'node .\app.js toronto' where toronto is any valid city
 
